@@ -187,7 +187,24 @@ LLM summaries reveal shifts in:
 
 ---
 
-## **7. Future Work: Supervisory AI Agent**
+## 07 · Why This Matters
+
+Supervisors and central banks increasingly rely on unstructured data
+(earnings calls, transcripts, analyst Q&A) to identify early signals of:
+
+- deteriorating credit quality  
+- liquidity pressure  
+- management opacity or evasiveness  
+- sentiment divergence between analysts and executives  
+- capital strategy shifts  
+
+This project demonstrates how large-scale NLP pipelines and LLM-based
+summarisation can support prudential supervision and systemic risk
+monitoring in real financial institutions.
+
+---
+
+## **8. Future Work: Supervisory AI Agent**
 
 Planned next stage includes:
 
@@ -201,7 +218,7 @@ This will form the basis of a **RegTech-grade supervisory intelligence system**.
 
 ---
 
-## **8. About**
+## **9. About**
 
 This project combines:
 
